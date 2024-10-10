@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [TALENT_TRADES(Service Provider)](https://github.com/roman0190/talent-trades)
 
-- 👨‍💻 All of my projects are available at [https://github.com/tazdikhossain/Tazdik-Hossain](https://github.com/tazdikhossain/Tazdik-Hossain)
+- 👨‍💻 All of my projects are available at [https://tazdikhossain.github.io/Portfolio-TAZDIK-HOSSAIN/##]
 
 - 💬 Ask me about **C++, Java, C#, Python, R, Php, Js, Next, Nest, Mysql, Oracal,**
 
