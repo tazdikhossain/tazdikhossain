@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tazdikhossain.github.io/Portfolio-TAZDIK-HOSSAIN/##]
 
-- 💬 Ask me about **C++, Java, C#, Python, R, Php, Js, Next, Nest, Mysql, Oracal,**
+- 💬 Ask me about **C++, Java, C#, Python, R, Php, Js, Next, Nest, Mysql, Oracle,**
 
 - 📫 How to reach me **tazdik755@gmail.com**
 
