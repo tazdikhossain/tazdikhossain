@@ -32,7 +32,7 @@
 
 ## 🏦 What I Build
 
-> **Banking & Web Project Engineer** — building financial systems, MFI platforms, and scalable web applications from Dhaka, Bangladesh.
+> **Web & Mobile App Project Engineer** — building financial systems, MFI platforms, and scalable web applications from Dhaka, Bangladesh.
 
 - 🔭 &nbsp;**Microfinance Platform** — Loan lifecycle management, repayment scheduling, treasury ops on **.NET Core + SSMS**
 - 🌐 &nbsp;**Web Applications** — Full-stack with **React, TypeScript, NestJS, Next.js**
