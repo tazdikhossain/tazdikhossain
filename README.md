@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Tazdik+Hossain;Banking+%26+Web+Project+Engineer;Full-Stack+%7C+Finance+%7C+Fintech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFB3&background=000000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Tazdik+Hossain;Banking+%26+Web+Project+Engineer;Full-Stack+%7C+Finance+%7C+Fintech" alt="Typing SVG" />
 
 <br/>
 
@@ -10,7 +10,13 @@
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tazdikhossain&theme=darkhub&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tazdikhossain&theme=onestar&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=4&section=header"/>
 
 </div>
 
